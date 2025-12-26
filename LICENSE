@@ -1,0 +1,44 @@
+FedjaExec License
+=================
+
+Copyright (c) 2025 Fedja Post
+
+FedjaExec is a brand operated by Fedja Post.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated source code files (the "Software"), to use,
+modify, and distribute the Software, subject to the following conditions:
+
+1. **Credit**
+   - You must give credit to:
+     1. The original distributor of the Software
+     2. The original contributors to the Software (including Fedja Post)
+   - Credit must be included in any derivative or redistributed work, such as
+     in documentation, headers, or "About" screens.
+
+2. **Brand and Icons**
+   - The contents of the `/icons` folder and any FedjaExec branding are **not
+     licensed**.
+   - You may not use, distribute, or modify these in derivative works.
+
+3. **Sublicensing**
+   - You may sublicense the Software under the same terms as this license.
+
+4. **Warranty**
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. **Limitation**
+   - The author is not liable for any damages arising from the use of the Software.
+
+---
+
+This license allows:
+- Modification and redistribution of the code
+- Sublicensing under the same terms
+- Personal or commercial use of the code
+
+This license **does NOT allow**:
+- Use of the `/icons` folder or FedjaExec branding
+- Removal of author, distributor, or contributor credit
