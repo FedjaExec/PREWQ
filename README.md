@@ -21,6 +21,8 @@ The app is designed for **personal use and educational purposes**.
 
 ## Download
 Download the latest compiled JAR from the [Releases](https://github.com/FedjaExec/PREWQ/releases) tab.
+The **release.zip** file contains the latest compiled version of PREWQ (PREWQ.jar).  
+Use this to run the editor. The `src.zip` contains the source code.
 
 ## How to Run
 Run the editor using:
