@@ -1,44 +1,29 @@
-FedjaExec License
-=================
+# PREWQ
 
-Copyright (c) 2025 Fedja Post
+**Version:** 0.3.0  
+**Build:** 6  
+**JDK:** Zulu OpenJDK 8  
 
-FedjaExec is a brand operated by Fedja Post.
+## License
+This software is licensed under the [FedjaExec License](LICENSE).  
+You may use, modify, and redistribute the code under the terms of the license.  
+**Note:** The `/icons` folder and any FedjaExec branding are **not licensed**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated source code files (the "Software"), to use,
-modify, and distribute the Software, subject to the following conditions:
+## Contributors
+- **Fedja Post** – Author, FedjaExec
 
-1. **Credit**
-   - You must give credit to:
-     1. The original distributor of the Software
-     2. The original contributors to the Software (including Fedja Post)
-   - Credit must be included in any derivative or redistributed work, such as
-     in documentation, headers, or "About" screens.
+## Description
+PREWQ is a lightweight Java Swing text editor.  
+- PREWQ stands for **Path Read Edit Write Quit**  
+- It does what it does — nothing more, nothing less.
 
-2. **Brand and Icons**
-   - The contents of the `/icons` folder and any FedjaExec branding are **not
-     licensed**.
-   - You may not use, distribute, or modify these in derivative works.
+The app is designed for **personal use and educational purposes**.
 
-3. **Sublicensing**
-   - You may sublicense the Software under the same terms as this license.
+## Download
+Download the latest compiled JAR from the [Releases](https://github.com/FedjaExec/PREWQ/releases) tab.
 
-4. **Warranty**
-   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+## How to Run
+Run the editor using:
 
-5. **Limitation**
-   - The author is not liable for any damages arising from the use of the Software.
-
----
-
-This license allows:
-- Modification and redistribution of the code
-- Sublicensing under the same terms
-- Personal or commercial use of the code
-
-This license **does NOT allow**:
-- Use of the `/icons` folder or FedjaExec branding
-- Removal of author, distributor, or contributor credit
+```bash
+java -jar PREWQ.jar
