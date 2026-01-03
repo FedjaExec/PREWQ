@@ -1,7 +1,7 @@
 # PREWQ
 
-**Version:** 0.3.0  
-**Build:** 6  
+**Version:** 0.3.1  
+**Build:** 3 
 **JDK:** Zulu OpenJDK 8  
 
 ## License
@@ -21,7 +21,7 @@ The app is designed for **personal use and educational purposes**.
 
 ## Download
 Download the latest compiled JAR from the [Releases](https://github.com/FedjaExec/PREWQ/releases) tab.
-The **release.zip** file contains the latest compiled version of PREWQ (PREWQ.jar).  
+The **release.zip** file contains the latest compiled version of PREWQ (PREWQ.jar). 
 Use this to run the editor. The `src.zip` contains the source code.
 
 ## How to Run
